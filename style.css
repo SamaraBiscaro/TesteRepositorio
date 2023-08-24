@@ -17,3 +17,30 @@ Main{
 
 
 }
+
+h1{
+    font-size: 2cm;
+    color:black;
+}
+
+h2{
+    font-size: 1.5cm;
+    color:black;
+
+}
+Img.lado{
+    float: right;
+
+}
+
+a{
+    text-decoration: none;
+    font-weight: bold;
+    color:cornflowerblue
+}
+
+a:hover {
+    text-decoration: underline;
+    color:darkblue
+
+}
